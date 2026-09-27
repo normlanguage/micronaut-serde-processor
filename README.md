@@ -1,3 +1,5 @@
 # Micronaut Serde Processor
 
-`micronaut.serde.processor@1` 封装 Micronaut Serialization 3.1.1 官方 Annotation Processor。Norm 应用只声明 Module 依赖，编译器负责处理器发现、执行和产物链接。
+[English](README.md) | [简体中文](README.zh-CN.md)
+
+`micronaut.serde.processor@1` wraps the official annotation processor for Micronaut Serialization 3.1.1. A Norm application declares only the module dependency; the compiler discovers and runs the processor and links its outputs.
